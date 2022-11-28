@@ -28,6 +28,10 @@ fun Application.configureSomething() {
 }
 ```
 
+### Code of Conduct
+
+See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
+
 ### How to contribute
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
