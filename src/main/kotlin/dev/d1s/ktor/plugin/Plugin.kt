@@ -18,10 +18,16 @@ package dev.d1s.ktor.plugin
 
 import io.ktor.server.application.*
 
+/**
+ * A plugin that does something.
+ */
 public val Plugin: ApplicationPlugin<PluginConfig> = createApplicationPlugin("plugin", ::PluginConfig) {
     TODO()
 }
 
+/**
+ * [dev.d1s.ktor.plugin.Plugin] config.
+ */
 public class PluginConfig {
     // TODO
 }
